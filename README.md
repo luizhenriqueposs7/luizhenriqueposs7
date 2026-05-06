@@ -4,7 +4,7 @@
 
 ### Olá, sou o Luiz Henrique! 👋
 
-Sou estudante de **Inteligência Artificial na FIAP** (3º Semestre) e estou em transição para o período noturno para focar integralmente na minha inserção no mercado de trabalho.
+Sou estudante de **Inteligência Artificial na FIAP** (3º Semestre)
 
 Minha jornada agora é transformar a teoria da sala de aula em código funcional. Gosto de entender como as coisas funcionam "por baixo do capô", seja treinando um modelo de ML, fazendo queries em banco de dados ou conectando sensores em um ESP32.
 
