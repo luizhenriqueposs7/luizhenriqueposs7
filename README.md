@@ -1,56 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=Luiz%20Henrique%20Poss&fontSize=50&fontAlignY=35&desc=IA%20%7C%20Data%20%7C%20IoT&descAlignY=60&descSize=20" width="100%"/>
+
+# Luiz Henrique Poss
+
+**Estudante de Inteligência Artificial na FIAP**
+
+Análise de dados, machine learning e IoT
+
+<br>
+
+<a href="https://www.linkedin.com/in/luiz-henrique-poss-a266942a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="mailto:luizhenriqueposs07@outlook.com">
+  <img src="https://img.shields.io/badge/E--mail-334155?style=for-the-badge" alt="Enviar e-mail" />
+</a>
+
 </div>
-
-### Olá, sou o Luiz Henrique! 👋
-
-Sou estudante de **Inteligência Artificial na FIAP** (3º Semestre)
-
-Minha jornada agora é transformar a teoria da sala de aula em código funcional. Gosto de entender como as coisas funcionam "por baixo do capô", seja treinando um modelo de ML, fazendo queries em banco de dados ou conectando sensores em um ESP32.
-
-🔭 **No que estou trabalhando/estudando agora:**
-* Aprofundando em **Python** para análise de dados.
-* Praticando **SQL** para manipulação de bancos de dados.
-* Entendendo a matemática por trás de algoritmos de **Machine Learning**.
-* Projetos acadêmicos envolvendo **IoT** e automação.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+## Sobre mim
 
-<div align="center">
+Sou estudante do **3º semestre de Inteligência Artificial na FIAP**.
+Estou aprofundando meus conhecimentos em Python, SQL e fundamentos
+de machine learning, com aplicação em projetos acadêmicos de dados,
+IoT e automação.
+
+Busco minha primeira oportunidade de **estágio em tecnologia ou dados**
+para desenvolver minhas habilidades, aprender com a equipe e contribuir
+em projetos.
+
+## Tecnologias e ferramentas
 
 **Linguagens**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Data Science & AI**
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-**Ferramentas & Cloud**
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+**Dados e machine learning**
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
 
----
+**Ferramentas e cloud**
 
-### 🎯 Objetivo
-Busco minha primeira oportunidade de **estágio** (Tech/Dados) onde eu possa aprender com seniors e contribuir com minha dedicação e lógica.
+<p>
+  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-334155?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/VS%20Code-334155?style=flat-square" alt="Visual Studio Code" />
+</p>
 
-<div align="center">
-  <br>
-  <a href="https://linkedin.com/in/luiz-henrique-poss-a266942a4" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:luizhenriqueposs07@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+## Estudos atuais
+
+- Análise e manipulação de dados com Python.
+- Consultas e manipulação de bancos de dados com SQL.
+- Fundamentos matemáticos e algoritmos de machine learning.
+- IoT e automação com ESP32.
